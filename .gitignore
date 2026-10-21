@@ -1,0 +1,7 @@
+.DS_Store
+~$*
+*.lnk
+*.url
+
+# Utgått material, används inte längre i kursen
+Wäxterås/
