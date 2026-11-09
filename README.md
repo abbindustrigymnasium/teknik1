@@ -4,6 +4,10 @@ Kursbok för kursen **Teknik nivå 1** (TEKI1000X, 100 poäng) på Hitachigymnas
 
 Här går du hela vägen från penna och papper till en robotbil som styrs via internet. Du lär dig skissa, rita och modellera i CAD, skriva ut i 3D, programmera mikrodatorer och räkna på elektriska kretsar. På vägen undersöker du också hur teknik utvecklas, vad den kostar miljön och vem den är till för.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Teknik 1 - Kurspresentation.pptx](Teknik%201%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 1. Läs kapitlet som hör till det moment ni arbetar med. Kapitlen följer kursens gång.
