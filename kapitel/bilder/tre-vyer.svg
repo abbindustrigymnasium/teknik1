@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 290" width="570" height="435" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#111">
+  <title>Tre vyer av en L-formad detalj enligt europeisk projektion</title>
+  <rect width="380" height="290" fill="#ffffff"/>
+  <g fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round">
+    <path d="M60 120 H180 V90 H100 V40 H60 Z"/>
+    <rect x="60" y="150" width="120" height="80"/>
+    <line x1="100" y1="150" x2="100" y2="230"/>
+    <circle cx="140" cy="190" r="12"/>
+    <rect x="220" y="40" width="80" height="80"/>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="0.9" stroke-dasharray="5 3">
+    <line x1="128" y1="90" x2="128" y2="120"/>
+    <line x1="152" y1="90" x2="152" y2="120"/>
+    <line x1="220" y1="90" x2="300" y2="90"/>
+    <line x1="248" y1="90" x2="248" y2="120"/>
+    <line x1="272" y1="90" x2="272" y2="120"/>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="0.5" stroke-dasharray="12 2 2 2">
+    <line x1="140" y1="82" x2="140" y2="128"/>
+    <line x1="140" y1="170" x2="140" y2="210"/>
+    <line x1="120" y1="190" x2="160" y2="190"/>
+    <line x1="260" y1="82" x2="260" y2="128"/>
+  </g>
+  <g fill="none" stroke="#555" stroke-width="0.5">
+    <line x1="60" y1="36" x2="60" y2="18"/>
+    <line x1="100" y1="36" x2="100" y2="18"/>
+    <line x1="60" y1="22" x2="100" y2="22"/>
+    <line x1="48" y1="120" x2="30" y2="120"/>
+    <line x1="48" y1="40" x2="30" y2="40"/>
+    <line x1="34" y1="40" x2="34" y2="120"/>
+    <line x1="184" y1="120" x2="202" y2="120"/>
+    <line x1="184" y1="90" x2="202" y2="90"/>
+    <line x1="198" y1="90" x2="198" y2="120"/>
+    <line x1="60" y1="234" x2="60" y2="254"/>
+    <line x1="180" y1="234" x2="180" y2="254"/>
+    <line x1="60" y1="250" x2="180" y2="250"/>
+    <line x1="184" y1="150" x2="202" y2="150"/>
+    <line x1="184" y1="230" x2="202" y2="230"/>
+    <line x1="198" y1="150" x2="198" y2="230"/>
+  </g>
+  <text x="80" y="17" text-anchor="middle">20</text>
+  <text x="28" y="83" text-anchor="end">40</text>
+  <text x="195" y="109" text-anchor="end">15</text>
+  <text x="120" y="263" text-anchor="middle">60</text>
+  <text x="208" y="194">40</text>
+  <text x="146" y="178">&#216;12</text>
+  <g font-weight="bold">
+    <text x="120" y="136" text-anchor="middle">F: vy framifr&#229;n</text>
+    <text x="260" y="136" text-anchor="middle">Vy fr&#229;n v&#228;nster</text>
+    <text x="120" y="280" text-anchor="middle">Vy ovanifr&#229;n</text>
+  </g>
+  <g transform="translate(230 170)">
+    <line x1="0" y1="0" x2="34" y2="0" stroke="#111" stroke-width="1.6"/>
+    <text x="40" y="3">synlig kant</text>
+    <line x1="0" y1="16" x2="34" y2="16" stroke="#111" stroke-width="0.9" stroke-dasharray="5 3"/>
+    <text x="40" y="19">dold kant</text>
+    <line x1="0" y1="32" x2="34" y2="32" stroke="#111" stroke-width="0.5" stroke-dasharray="12 2 2 2"/>
+    <text x="40" y="35">centrumlinje</text>
+    <line x1="0" y1="48" x2="34" y2="48" stroke="#555" stroke-width="0.5"/>
+    <text x="40" y="51">m&#229;ttlinje</text>
+  </g>
+</svg>

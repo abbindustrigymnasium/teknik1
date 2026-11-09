@@ -1,126 +1,67 @@
-# Teknik 1
+# Teknik nivå 1
 
-Välkommen till kursen **Teknik nivå 1** (TEKI1000X, 100 poäng) på Hitachigymnasiet! Här hittar du allt material för kursen: presentationer, instruktioner, laborationer, CAD-filer och kodexempel.
+Kursbok för kursen **Teknik nivå 1** (TEKI1000X, 100 poäng) på Hitachigymnasiet i Västerås.
 
-Börja med kursintroduktionen: [Teknik 1 - Kursintroduktion.pptx](Teknik%201%20-%20Kursintroduktion.pptx)
+Här går du hela vägen från penna och papper till en robotbil som styrs via internet. Du lär dig skissa, rita och modellera i CAD, skriva ut i 3D, programmera mikrodatorer och räkna på elektriska kretsar. På vägen undersöker du också hur teknik utvecklas, vad den kostar miljön och vem den är till för.
 
-## Kursöversikt
+## Så använder du boken
 
-Kursen består av sju moment som bygger på varandra – från skiss och ritning, via CAD och 3D-utskrift, till mikrodatorer, elektronik och till sist en egen robotbil.
+1. Läs kapitlet som hör till det moment ni arbetar med. Kapitlen följer kursens gång.
+2. Gör **Testa dig själv** för att se om du förstått, och sedan övningarna. De är märkta **Grund**, **Vidare** och **Utmaning**. Svar på räkneuppgifter finns under **Svar**, men försök själv först.
+3. Öppna projektmappen när ni startar ett projekt. Där står krav, arbetsgång och bedömning.
+4. Vill du veta exakt vad du bedöms på finns Skolverkets text i [kursplan.md](kursplan.md).
 
-| # | Moment | Material |
-|---|--------|----------|
-| 1 | Ritteknik | [Ritteknik och Inventor/](Ritteknik%20och%20Inventor/) |
-| 2 | CAD med Autodesk Inventor (inkl. examinerande uppgift *Hållare*) | [Ritteknik och Inventor/](Ritteknik%20och%20Inventor/), [Hållare/](H%C3%A5llare/) |
-| 3 | 3D-utskrift med Bambu Lab | Se länkar nedan |
-| 4 | Mikrodator – ESP8266 och Arduino IDE (7 laborationer) | [Mikrodator/](Mikrodator/) |
-| 5 | Projekt: I hetaste laget (temperaturmätare) | [I hetaste laget/](I%20hetaste%20laget/) |
-| 6 | Ellära + prov | [Ellära/](Ell%C3%A4ra/) |
-| 7 | Driverbot – robotbil | [Driverbot/](Driverbot/) |
+Instruktioner, presentationer och CAD-filer finns kvar i kursens materialmappar. Boken länkar till dem där de behövs.
 
-Kursens centrala innehåll och betygskriterier finns i [kurskriterie.md](kurskriterie.md).
+## Kapitel
 
----
+1. [Från idé till återvinning](kapitel/01-teknikutvecklingsprocessen.md)
+2. [Ritteknik](kapitel/02-ritteknik.md)
+3. [CAD och modellering i Inventor](kapitel/03-cad-och-inventor.md)
+4. [3D-utskrift](kapitel/04-3d-utskrift.md)
+5. [Material och hållbarhet](kapitel/05-material-och-hallbarhet.md)
+6. [Mikrodatorn och programmering](kapitel/06-mikrodatorn.md)
+7. [IT-system, mätning och kommunikation](kapitel/07-it-system-och-matning.md)
+8. [Ellära](kapitel/08-ellara.md)
+9. [Konstruktion av en robotbil](kapitel/09-konstruktion-och-robotbil.md)
+10. [Teknik, samhälle och normer](kapitel/10-teknik-samhalle-normer.md)
 
-## 1. Ritteknik
+## Projekt
 
-Vi lär oss skissa och rita tekniska ritningar för hand: vyer, projektioner och måttsättning.
+1. [Ritteknik, CAD och 3D-print](projekt/ritteknik-cad-3d-print/README.md), med den examinerande uppgiften Hållare
+2. [Mikrokontroller och elektronik](projekt/mikrokontroller-och-elektronik/README.md)
+3. [I hetaste laget](projekt/hetaste-laget/README.md), tillsammans med Programmering nivå 1
+4. [Ellära](projekt/ellara/README.md), med prov
+5. [Produktutveckling: Driverbot](projekt/produktutveckling-driverbot/README.md), kursens slutprojekt
 
-- [Ritteknik presentation.pptx](Ritteknik%20och%20Inventor/Ritteknik%20presentation.pptx)
-- [Träning, vyer och måttsättning.docx](Ritteknik%20och%20Inventor/Tr%C3%A4ning%2C%20vyer%20och%20m%C3%A5tts%C3%A4ttning.docx)
-- [Orthographic-Projection-Sheet-1.pdf](Ritteknik%20och%20Inventor/Orthographic-Projection-Sheet-1.pdf)
-- [Klosshäfte inskannat.pdf](Ritteknik%20och%20Inventor/Klossh%C3%A4fte%20inskannat.pdf)
+## Vilket kapitel förbereder vilket projekt?
 
-## 2. CAD med Autodesk Inventor
+| Kapitel | Förbereder |
+|---------|------------|
+| 1 Från idé till återvinning | Alla projekt |
+| 2 Ritteknik | Ritteknik, CAD och 3D-print |
+| 3 CAD och modellering | Ritteknik, CAD och 3D-print; I hetaste laget; Driverbot |
+| 4 3D-utskrift | Ritteknik, CAD och 3D-print; I hetaste laget; Driverbot |
+| 5 Material och hållbarhet | Ritteknik, CAD och 3D-print; Driverbot |
+| 6 Mikrodatorn och programmering | Mikrokontroller och elektronik; I hetaste laget; Driverbot |
+| 7 IT-system, mätning och kommunikation | I hetaste laget; Driverbot |
+| 8 Ellära | Ellära; Driverbot |
+| 9 Konstruktion av en robotbil | Driverbot |
+| 10 Teknik, samhälle och normer | Utvärdering och redovisning i I hetaste laget och Driverbot |
 
-Från ritning till 3D-modell. Vi modellerar detaljer i Inventor och gör ritningar från modellerna.
+## Kursplan
 
-- [Introduktion Inventor CAD.pdf](Ritteknik%20och%20Inventor/Introduktion%20Inventor%20CAD.pdf) ([.docx](Ritteknik%20och%20Inventor/Introduktion%20Inventor%20CAD.docx))
-- [Inventor intro.mp4](Ritteknik%20och%20Inventor/Inventor%20intro.mp4) – videogenomgång
-- Gratis studentlicens: [Autodesk Education](https://www.autodesk.com/education/edu-software/overview)
+Ämnets syfte, centralt innehåll, betygskriterier och en matris över var allt behandlas finns i [kursplan.md](kursplan.md).
 
-### Examinerande uppgift: Hållare
+## Kursens material
 
-Konstruera en hållare för ESP8266-kortet som sedan 3D-skrivs ut.
-
-- [Hållare esp mm.docx](H%C3%A5llare/H%C3%A5llare%20esp%20mm.docx) – uppgiftsbeskrivning
-- [Baskort.ipt](H%C3%A5llare/Baskort.ipt) – modell av baskortet att konstruera runt
-- [Videogenomgång (YouTube)](https://www.youtube.com/watch?v=BizTnf3CqtA)
-
-## 3. 3D-utskrift med Bambu Lab
-
-Vi skriver ut våra konstruktioner på skolans Bambu Lab-skrivare.
-
-- [Bambu Studio](https://bambulab.com/en/download/studio) – slicerprogrammet
-- [Bambu Lab Wiki](https://wiki.bambulab.com/en/home) – guider och felsökning
-
-## 4. Mikrodator – ESP8266 och Arduino IDE
-
-Sju laborationer där vi programmerar ESP8266 (NodeMCU) i Arduino IDE och kopplar in sensorer, displayer och motorer.
-
-1. [Installation av Arduino IDE och komma igång med ESP8266](Mikrodator/1%20Installation%20av%20Arduino%20IDE%20och%20komma%20ig%C3%A5ng%20med%20ESP8266-VW19117.docx)
-2. [Lägga till bibliotek i Arduino IDE och mäta temperatur med AM2320](Mikrodator/2%20L%C3%A4gga%20till%20bibliotek%20%20i%20Arduino%20IDE%20och%20m%C3%A4ta%20temperatur%20med%20AM2320.docx)
-3. [Koppla in trycknapp till digital ingång](Mikrodator/3%20Koppla%20in%20trycknapp%20till%20digital%20ing%C3%A5mg.docx)
-4. [Skriva till en display](Mikrodator/4%20Skriva%20till%20en%20Display.docx)
-5. [Avståndssensor VL53L0X](Mikrodator/5%20Avst%C3%A5ndsensor%20VLX53L0X.docx)
-6. [Servo](Mikrodator/6%20Servo.docx)
-7. [Motorstyrning](Mikrodator/7%20Motorstyrning.docx)
-
-Kodexempel till laborationerna finns i [Mikrodator/Koder/](Mikrodator/Koder/).
-
-**Programvara och drivrutiner**
-
-- [Arduino IDE](https://www.arduino.cc/en/software)
-- Board manager-URL för ESP8266: `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
-- USB-drivrutin CP210x (Windows): [CP210x_Universal_Windows_Driver.zip](Mikrodator/CP210x_Universal_Windows_Driver.zip) eller från [Silicon Labs](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers)
-
-**Bibliotek och referenser**
-
-- [Arduino Language Reference](https://www.arduino.cc/reference/en/)
-- [AM2320 (temperatur/luftfuktighet)](https://github.com/hibikiledo/AM2320)
-- [VL53L0X (avståndssensor)](https://github.com/pololu/vl53l0x-arduino)
-- [Adafruit SSD1306 (OLED-display)](https://adafruit.github.io/Adafruit_SSD1306/html/class_adafruit___s_s_d1306.html) och [Adafruit GFX](http://adafruit.github.io/Adafruit-GFX-Library/html/class_adafruit___g_f_x.html)
-
-## 5. Projekt: I hetaste laget
-
-Ett projekt tillsammans med [Programmering 1](https://github.com/abbindustrigymnasium/programmering1) där vi bygger en uppkopplad temperaturmätare med ESP8266 och AM2320.
-
-- [I hetaste laget.pptx](I%20hetaste%20laget/I%20hetaste%20laget.pptx)
-- [Mäta temperatur med AM2320.docx](I%20hetaste%20laget/M%C3%A4ta%20temperatur%20med%20AM2320.docx)
-
-## 6. Ellära
-
-Ström, spänning, resistans, Ohms lag, serie- och parallellkoppling. Momentet avslutas med ett prov.
-
-- [Ellärakompendium VT26.docx](Ell%C3%A4ra/Ell%C3%A4rakompendium%20VT26.docx)
-- [Kjell & Company: Seriekoppling och parallellkoppling](https://www.kjell.com/se/kunskap/hur-funkar-det/elelektronik/grundlaggande-ellara/seriekoppling-och-parallellkoppling)
-- [Ledningsresistans](https://el.ltgee.se/docs/ledningsresistans/)
-- [Videoserie om ellära (YouTube)](https://www.youtube.com/watch?v=L4OkCzc4fbg&list=PLriWw5UoiIWuMPddMrLR0fmsnKzvtzaJu)
-
-## 7. Driverbot – robotbil
-
-Kursens slutprojekt: konstruera, skriv ut, bygg och programmera en egen robotbil.
-
-- [Driverbot250s.pptx](Driverbot/Driverbot250s.pptx) – projektbeskrivning
-- [Arbetsordning.docx](Driverbot/Arbetsordning.docx)
-- [1. Motorhållare instruktion.mp4](Driverbot/1.%20Motorh%C3%A5llare%20instruktion.mp4)
-
-CAD-filer för standardkomponenter:
-
-- [TT motor.STEP](Driverbot/TT%20motor.STEP)
-- [Micro servo 9g-SG90.stp](Driverbot/Micro%20servo%209g-SG90.stp)
-- [Lego axle.STEP](Driverbot/Lego%20axle.STEP)
-- [11M Beam.ipt](Driverbot/11M%20Beam.ipt)
-- [Nummerplåt.stp](Driverbot/Nummerpl%C3%A5t.stp)
-
----
-
-## Extra: Film
-
-- [Teknikhistoria 250s.docx](Film/Teknikhistoria%20250s.docx) – se även [UR Play: Automatiseringens tidevarv](https://urplay.se/serie/196527-automatiseringens-tidevarv)
-- [Reklamfilm på ditt spel.docx](Film/Reklamfilm%20p%C3%A5%20ditt%20spel.docx)
-
-## Länkar
-
-- [Skolverket – ämnet Teknik](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?code=TEK)
-- [Programmering 1](https://github.com/abbindustrigymnasium/programmering1)
+- [MATERIAL.md](MATERIAL.md): översikt över allt material med länkar till varje fil
+- [Kursintroduktion](Teknik%201%20-%20Kursintroduktion.pptx)
+- [Ritteknik och Inventor](Ritteknik%20och%20Inventor/)
+- [Hållare](H%C3%A5llare/)
+- [Mikrodator](Mikrodator/) med [kodexempel](Mikrodator/Koder/)
+- [I hetaste laget](I%20hetaste%20laget/)
+- [Ellära](Ell%C3%A4ra/)
+- [Driverbot](Driverbot/)
+- [Film](Film/)
+- [Programmering 1](https://github.com/abbindustrigymnasium/programmering1), kursen som samläses i I hetaste laget
