@@ -97,15 +97,6 @@ Ett **projekt** är ett arbete med ett bestämt mål, en tidsgräns och begräns
 - **Viktad beslutsmatris:** tabell där lösningar poängsätts mot viktade kriterier.
 - **Projekt:** arbete med mål, tidsgräns och begränsade resurser.
 
-## Testa dig själv
-
-1. Varför räknas en tidtabell som teknik?
-2. Nämn de sex stegen i processen och ge ett eget exempel på varje.
-3. Hur kan ett beslut i skissteget påverka återvinningen?
-4. Varför ska du bara ändra en sak i taget när du felsöker?
-5. Vad är skillnaden mellan ett krav och en önskan?
-6. Vad är styrkan och svagheten med en viktad beslutsmatris?
-
 ## Koppling till projektet
 
 Processen genomsyrar alla projekt. Du följer den första gången i [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md) och tar den hela vägen i [I hetaste laget](../projekt/hetaste-laget/README.md) och [Produktutveckling: Driverbot](../projekt/produktutveckling-driverbot/README.md). Spara dina anteckningar om vad du ändrade och varför, för det är just det som visar att du förstår processen.

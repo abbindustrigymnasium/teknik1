@@ -148,15 +148,6 @@ Fel kan finnas på tre ställen: i kopplingen, i komponenten eller i koden. Test
 - **PWM:** snabb av- och påslagning för att styra effekt.
 - **Tillstånd:** ett läge som programmet befinner sig i.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan Verify och Upload?
-2. Vad är skillnaden mellan en pinne och en signal?
-3. Hur många olika värden kan en 10-bitars A/D-omvandlare ge?
-4. Varför kan flera enheter dela på samma I2C-ledningar?
-5. Vad är problemet med `delay()`?
-6. Varför är det smart att testa koden utan givare först?
-
 ## Koppling till projektet
 
 Det här är innehållet i [Mikrokontroller och elektronik](../projekt/mikrokontroller-och-elektronik/README.md). Givaren och koden behöver du i [I hetaste laget](../projekt/hetaste-laget/README.md), och motorn och servot i [Driverbot](../projekt/produktutveckling-driverbot/README.md).

@@ -132,15 +132,6 @@ Testa delsystem för sig innan du sätter ihop dem, och ta bort ett hjul eller l
 - **Topic:** ämne som meddelanden skickas på.
 - **Verifiering:** kontroll av att krav är uppfyllda.
 
-## Testa dig själv
-
-1. Nämn fyra delsystem i robotbilen.
-2. Varför ska du ha marginal i en beräkning av motorns moment?
-3. Vad händer i H-bryggan när motorn ska byta riktning?
-4. Vad skiljer MQTT från att skicka ett meddelande direkt till en bil?
-5. Varför ska du skriva testprotokollet innan du testar?
-6. Varför måste du kontrollera pinnarna innan du kopplar ihop servo och motor?
-
 ## Koppling till projektet
 
 Allt i kapitlet används i [Produktutveckling: Driverbot](../projekt/produktutveckling-driverbot/README.md). Kapitel 3 och 4 ger dig CAD och utskrift, kapitel 6 motorstyrningen, kapitel 7 nätverk och säkerhet och kapitel 8 beräkningarna.

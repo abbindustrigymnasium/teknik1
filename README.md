@@ -11,9 +11,8 @@ En översikt över kursen, dess delar och projekt: [Teknik 1 - Kurspresentation.
 ## Så använder du boken
 
 1. Läs kapitlet som hör till det moment ni arbetar med. Kapitlen följer kursens gång.
-2. Gör **Testa dig själv** för att se om du förstått.
-3. Öppna projektmappen när ni startar ett projekt. Där står krav, arbetsgång och bedömning.
-4. Vill du veta exakt vad du bedöms på finns Skolverkets text i [kursplan.md](kursplan.md).
+2. Öppna projektmappen när ni startar ett projekt. Där står krav, arbetsgång och bedömning.
+3. Vill du veta exakt vad du bedöms på finns Skolverkets text i [kursplan.md](kursplan.md).
 
 Instruktioner, presentationer och CAD-filer finns kvar i kursens materialmappar. Boken länkar till dem där de behövs.
 

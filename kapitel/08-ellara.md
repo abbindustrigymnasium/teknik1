@@ -122,15 +122,6 @@ Fråga dig alltid: är svaret rimligt? En mobilladdare drar inte hundratals ampe
 - **Resistivitet:** materialets förmåga att motstå ström.
 - **Rimlighetsbedömning:** kontroll av att ett resultat kan stämma.
 
-## Testa dig själv
-
-1. Varför går det ingen ström i en öppen krets?
-2. Varför är strömmen lika stor överallt i en seriekoppling?
-3. Varför är ersättningsresistansen alltid mindre än minsta grenen i en parallellkoppling?
-4. Vad händer med strömmen om spänningen fördubblas men resistansen är konstant?
-5. Vad är skillnaden mellan effekt och energi?
-6. Hur kopplar du en voltmeter och en amperemeter?
-
 ## Koppling till projektet
 
 Det här är innehållet i projektet [Ellära](../projekt/ellara/README.md), som avslutas med ett prov. Du använder det sedan i [Driverbot](../projekt/produktutveckling-driverbot/README.md) när du räknar på motorer och batterier.

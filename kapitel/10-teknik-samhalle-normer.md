@@ -82,15 +82,6 @@ En teknisk lösning på ett problem skapar ofta nya problem. Det är inget skäl
 - **Etik:** frågor om vad som är rätt och fel.
 - **Automatisering:** att maskiner tar över arbetsuppgifter.
 
-## Testa dig själv
-
-1. Ge ett exempel på hur ett samhällsbehov drivit fram en teknik, och ett på motsatsen.
-2. Varför räcker det inte att säga att teknik är neutral?
-3. Vad visar exemplet med krockdockor om hur normer kan påverka teknik?
-4. Beskriv en teknik du använder utifrån ekonomiska, sociala och miljömässiga aspekter.
-5. Vad betyder det att fråga sig vem en produkt utgår från?
-6. Vilket ansvar har en tekniker som tar fram något som senare kan missbrukas?
-
 ## Koppling till projektet
 
 Inget av kursens projekt har teknik och samhälle som huvuduppgift, men frågorna hör hemma i allt du gör. Du kan använda dem när du utvärderar din lösning i [I hetaste laget](../projekt/hetaste-laget/README.md) och när du redovisar [Driverbot](../projekt/produktutveckling-driverbot/README.md). Beskriv gärna vem din konstruktion är tänkt för, vilka konsekvenser den kan få och vad du skulle göra annorlunda.

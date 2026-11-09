@@ -136,17 +136,6 @@ Skapa gärna en version innan du lämnar in, så att läraren ser precis det du 
 - **Version:** ett sparat, namngivet läge av dokumentet som inte går att ändra.
 - **Rimlighetsbedömning:** kontroll av om ett resultat kan stämma.
 
-## Testa dig själv
-
-1. Vad är vinsten med att sätta ett mått till `#bredd/2` i stället för att skriva in ett tal?
-2. Vad är skillnaden mellan sketch, feature och part?
-3. Varför går det ibland inte att extrudera en skiss?
-4. När passar Revolve bättre än Extrude?
-5. Var hittar du volymen på en modell i Onshape, och vad måste du ha gjort för att den ska räknas ut?
-6. Vad betyder det att en skiss är blå?
-7. Varför kan du inte arbeta i Onshape utan nätverk?
-8. Varför räcker det inte att bara testa en modell i datorn?
-
 ## Koppling till projektet
 
 CAD är kärnan i [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md). Där modellerar du hållaren runt baskortet. Filen [Baskort.ipt](../H%C3%A5llare/Baskort.ipt) importerar du till ditt dokument, och så använder du Measure för att mäta kortet. Du återanvänder hållaren sedan i I hetaste laget och i Driverbot.

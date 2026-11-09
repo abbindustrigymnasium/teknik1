@@ -94,15 +94,6 @@ Som **tekniker** påverkar du mycket av detta genom dina val. Går produkten att
 - **Livscykelanalys:** undersökning av miljöpåverkan under en produkts hela liv.
 - **Hållbar utveckling:** utveckling som tar hänsyn till miljö, ekonomi och människor.
 
-## Testa dig själv
-
-1. Vilka tre egenskaper är viktigast för en hållare till ett kretskort i en bil, och varför?
-2. Varför används koppar och inte stål i elektriska ledare, trots att koppar är dyrare?
-3. Varför är det missvisande att säga att PLA är "bra för miljön" utan vidare förklaring?
-4. Varför ger böjning större spänning än dragning?
-5. Vad betyder att en produkt har stor påverkan under användningen?
-6. Ge ett exempel på en lösning som är bra ekonomiskt men dålig socialt.
-
 ## Koppling till projektet
 
 I [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md) väljer du vägg, fyllnad och orientering, och du kan använda beräkningarna här för att motivera dina val. I [Driverbot](../projekt/produktutveckling-driverbot/README.md) utvärderar du din bil, och då är hållbarhet ett av perspektiven.

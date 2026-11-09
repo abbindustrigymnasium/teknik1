@@ -97,15 +97,6 @@ Vissa detaljer är svåra att förstå med streckade linjer. Då kan man rita et
 - **Tolerans:** tillåten avvikelse från ett mått.
 - **Skala:** förhållandet mellan ritningens mått och verkliga mått.
 
-## Testa dig själv
-
-1. Varför kan en ritning ha betydelse i en rättslig tvist?
-2. Vad betyder det att en ritning är entydig?
-3. Var placeras vyn ovanifrån i förhållande till F, och varför?
-4. Vilken linjetyp använder du för ett hål som inte syns från det håll du ritar?
-5. När är baslinjemått bättre än kedjemått?
-6. Vilket mått skriver du på ritningen om du ritar i skala 1:2 och detaljen är 80 mm lång?
-
 ## Koppling till projektet
 
 Det här är första delen av [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md). Skissen och de måttsatta vyerna är också grunden för din hållare, som är kursens första examinerande uppgift.

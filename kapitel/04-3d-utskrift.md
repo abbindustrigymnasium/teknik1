@@ -90,15 +90,6 @@ Var försiktig vid skrivaren. Munstycke och byggplatta är mycket varma, så sti
 - **Support:** stödmaterial som tas bort efteråt.
 - **Spel:** avsiktligt mellanrum mellan två delar.
 
-## Testa dig själv
-
-1. Varför är en utskrift ofta svagare i höjdled än längs lagren?
-2. Vad händer om du väljer 0,1 mm i stället för 0,2 mm i lagerhöjd?
-3. Varför kan en annan orientering spara support?
-4. Vad kan fyllnad och väggar göra för en detalj som du inte vill ska bli tung?
-5. Varför är det dumt att skriva ut en detalj utan att först kontrollera den i slicern?
-6. Varför behövs spel i en passning?
-
 ## Koppling till projektet
 
 3D-utskriften avslutar [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md). Samma kunskap använder du när du anpassar hållaren i [I hetaste laget](../projekt/hetaste-laget/README.md) och när du skriver ut axelkoppling, motorhållare och servohållare i [Driverbot](../projekt/produktutveckling-driverbot/README.md).

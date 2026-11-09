@@ -106,15 +106,6 @@ Lägg upp filmen ungefär så här:
 - **Systembeskrivning:** dokument som förklarar hur en lösning är uppbyggd.
 - **Målgrupp:** de personer du riktar dig till.
 
-## Testa dig själv
-
-1. Nämn fem delar i det IT-system som du bygger i I hetaste laget.
-2. Varför kan en givare med två decimaler ändå ha ett fel på en halv grad?
-3. Varför ska inte lösenord ligga i publik kod?
-4. Vad bör en systembeskrivning innehålla?
-5. Hur kan en systembeskrivning hjälpa dig själv om ett halvår?
-6. Hur ändrar du en förklaring beroende på målgrupp?
-
 ## Koppling till projektet
 
 Kapitlet är direkt kopplat till [I hetaste laget](../projekt/hetaste-laget/README.md). Där lämnar du in en fungerande termometer, en systembeskrivning, kommenterad kod och en film. Du behöver också tänka på IT-säkerhet och nätverk i [Driverbot](../projekt/produktutveckling-driverbot/README.md), där bilen styrs via internet.
