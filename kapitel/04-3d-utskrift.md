@@ -25,13 +25,15 @@ Vanligast är plasten **PLA**. Den är lätt att skriva ut och kräver inte lika
 
 ```mermaid
 flowchart LR
-  A[Modell i Inventor] --> B[Export till STL eller 3MF]
+  A[Modell i Onshape] --> B[Export till STL eller 3MF]
   B --> C[Bambu Studio: slicer]
   C --> D[Fil med verktygsbanor]
   D --> E[Skrivaren]
   E --> F[Test: passar det?]
   F -- nej --> A
 ```
+
+I Onshape högerklickar du på delen i Parts-listan, väljer **Export** och sätter **Format** till STL eller 3MF. Välj också **Millimeter** under **Units** för STL, så att storleken blir rätt. Filen laddas ned via webbläsaren, och du öppnar den sedan i slicern.
 
 **Slicern** är programmet som skivar upp modellen i lager och räknar ut exakt hur munstycket ska röra sig. Vi använder [Bambu Studio](https://bambulab.com/en/download/studio). Där gör du dina viktigaste val.
 
@@ -97,28 +99,6 @@ Var försiktig vid skrivaren. Munstycke och byggplatta är mycket varma, så sti
 5. Varför är det dumt att skriva ut en detalj utan att först kontrollera den i slicern?
 6. Varför behövs spel i en passning?
 
-## Övningar
-
-**Grund.** En detalj är 24 mm hög. Hur många lager blir det med lagerhöjden 0,2 mm respektive 0,12 mm?
-
-<details><summary>Svar</summary>
-
-24 / 0,2 = 120 lager och 24 / 0,12 = 200 lager.
-
-</details>
-
-**Grund.** Öppna din modell i Bambu Studio. Jämför tid och materialåtgång med två olika orienteringar och skriv ned siffrorna.
-
-**Vidare.** En detalj har volymen 8 000 mm³. Hur mycket väger den om den skrivs ut tät i PLA (1,24 g/cm³)? Hur lång filament går åt, med diametern 1,75 mm?
-
-<details><summary>Svar</summary>
-
-8 cm³ · 1,24 ≈ 9,9 g. Längden blir 8 000 / 2,405 ≈ 3 326 mm ≈ 3,3 m.
-
-</details>
-
-**Utmaning.** Skriv ut ett litet testprov med flera hål i olika storlekar och mät dem med skjutmått. Hur mycket avviker hålen från modellen? Använd resultatet för att bestämma spelet i din hållare.
-
 ## Koppling till projektet
 
 3D-utskriften avslutar [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md). Samma kunskap använder du när du anpassar hållaren i [I hetaste laget](../projekt/hetaste-laget/README.md) och när du skriver ut axelkoppling, motorhållare och servohållare i [Driverbot](../projekt/produktutveckling-driverbot/README.md).
@@ -128,4 +108,4 @@ Var försiktig vid skrivaren. Munstycke och byggplatta är mycket varma, så sti
 - [Bambu Lab Wiki](https://wiki.bambulab.com/en/home): guider och felsökning.
 - [Bambu PLA Basic datablad](https://cdn.shopify.com/s/files/1/0380/5149/files/Bambu_PLA_Basic_Technical_Data_Sheet.pdf): tillverkarens värden för materialet.
 
-[← Föregående](03-cad-och-inventor.md) | [Innehåll](../README.md) | [Nästa →](05-material-och-hallbarhet.md)
+[← Föregående](03-cad-i-onshape.md) | [Innehåll](../README.md) | [Nästa →](05-material-och-hallbarhet.md)

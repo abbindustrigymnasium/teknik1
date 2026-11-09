@@ -91,16 +91,6 @@ En teknisk lösning på ett problem skapar ofta nya problem. Det är inget skäl
 5. Vad betyder det att fråga sig vem en produkt utgår från?
 6. Vilket ansvar har en tekniker som tar fram något som senare kan missbrukas?
 
-## Övningar
-
-**Grund.** Välj en av tabellens tekniker och beskriv dess påverkan utifrån de tre aspekterna.
-
-**Vidare.** Undersök en produkt i din vardag. För vilken användare är den tänkt? Vad händer om användaren är mycket kort, har dålig syn eller inte kan läsa svenska? Föreslå en ändring.
-
-**Vidare.** Diskutera i grupp: ska en självkörande bil prioritera sina passagerare eller fotgängare? Vem ska bestämma det? Sammanfatta olika ståndpunkter.
-
-**Utmaning.** Gör en kort film, 3 till 6 minuter, om en teknik i historien eller om teknik och genus. Mappen [Film](../Film/) innehåller en arbetsgång med storyboard och manus och en lista över möjliga ämnen. Rådfråga läraren om uppgiften ingår i kursen just nu.
-
 ## Koppling till projektet
 
 Inget av kursens projekt har teknik och samhälle som huvuduppgift, men frågorna hör hemma i allt du gör. Du kan använda dem när du utvärderar din lösning i [I hetaste laget](../projekt/hetaste-laget/README.md) och när du redovisar [Driverbot](../projekt/produktutveckling-driverbot/README.md). Beskriv gärna vem din konstruktion är tänkt för, vilka konsekvenser den kan få och vad du skulle göra annorlunda.

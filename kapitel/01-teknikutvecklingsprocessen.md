@@ -34,7 +34,7 @@ flowchart LR
 | Steg | Frågan du ställer | Exempel från kursen |
 |------|-------------------|---------------------|
 | Behov och idé | Vilket problem löser jag, och för vem? | Korten måste sitta stadigt men gå att ta ut |
-| Skiss och modell | Hur kan det se ut och fungera? | Skiss på papper, 3D-modell i Inventor |
+| Skiss och modell | Hur kan det se ut och fungera? | Skiss på papper, 3D-modell i Onshape |
 | Prototyp och test | Fungerar det i verkligheten? | Första utskriften: passar kortet? |
 | Produkt eller tjänst | Är den färdig och går den att upprepa? | Hållaren med godkänd passform |
 | Användning | Vad händer när någon använder den? | Hållaren sitter på robotbilen och skakar |
@@ -105,22 +105,6 @@ Ett **projekt** är ett arbete med ett bestämt mål, en tidsgräns och begräns
 4. Varför ska du bara ändra en sak i taget när du felsöker?
 5. Vad är skillnaden mellan ett krav och en önskan?
 6. Vad är styrkan och svagheten med en viktad beslutsmatris?
-
-## Övningar
-
-**Grund.** Välj en vardagspryl, till exempel en cykellampa. Beskriv dess väg genom de sex stegen i processen.
-
-**Grund.** Formulera om till kontrollerbara krav: "Hållaren ska vara lätt", "Bilen ska vara snabb", "Koden ska vara begriplig".
-
-**Vidare.** Räkna om matrisen i exemplet med vikten 5 på "Lätt att montera" och alla andra vikter oförändrade. Vilken lösning vinner?
-
-<details><summary>Svar</summary>
-
-A: 20 + 16 + 15 + 15 = 66. B: 25 + 8 + 6 + 20 = 59. C: 15 + 20 + 12 + 20 = 67. Lösning C vinner, med ett poäng över A.
-
-</details>
-
-**Utmaning.** Gör en egen beslutsmatris med tre lösningar på ett problem du har hemma. Ta med minst ett kriterium som handlar om hållbarhet. Ändra vikterna och undersök om resultatet är känsligt för det.
 
 ## Koppling till projektet
 

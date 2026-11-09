@@ -11,7 +11,7 @@ En översikt över kursen, dess delar och projekt: [Teknik 1 - Kurspresentation.
 ## Så använder du boken
 
 1. Läs kapitlet som hör till det moment ni arbetar med. Kapitlen följer kursens gång.
-2. Gör **Testa dig själv** för att se om du förstått, och sedan övningarna. De är märkta **Grund**, **Vidare** och **Utmaning**. Svar på räkneuppgifter finns under **Svar**, men försök själv först.
+2. Gör **Testa dig själv** för att se om du förstått.
 3. Öppna projektmappen när ni startar ett projekt. Där står krav, arbetsgång och bedömning.
 4. Vill du veta exakt vad du bedöms på finns Skolverkets text i [kursplan.md](kursplan.md).
 
@@ -21,7 +21,7 @@ Instruktioner, presentationer och CAD-filer finns kvar i kursens materialmappar.
 
 1. [Från idé till återvinning](kapitel/01-teknikutvecklingsprocessen.md)
 2. [Ritteknik](kapitel/02-ritteknik.md)
-3. [CAD och modellering i Inventor](kapitel/03-cad-och-inventor.md)
+3. [CAD och modellering i Onshape](kapitel/03-cad-i-onshape.md)
 4. [3D-utskrift](kapitel/04-3d-utskrift.md)
 5. [Material och hållbarhet](kapitel/05-material-och-hallbarhet.md)
 6. [Mikrodatorn och programmering](kapitel/06-mikrodatorn.md)
@@ -61,7 +61,7 @@ Instruktioner, presentationer och CAD-filer finns kvar i kursens materialmappar.
 
 - [MATERIAL.md](MATERIAL.md): översikt över allt material med länkar till varje fil
 - [Kursintroduktion](Teknik%201%20-%20Kursintroduktion.pptx)
-- [Ritteknik och Inventor](Ritteknik%20och%20Inventor/)
+- [Ritteknik](Ritteknik%20och%20Inventor/): övningar och presentationer för handritning
 - [Hållare](H%C3%A5llare/)
 - [Mikrodator](Mikrodator/) med [kodexempel](Mikrodator/Koder/)
 - [I hetaste laget](I%20hetaste%20laget/)

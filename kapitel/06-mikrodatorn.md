@@ -157,28 +157,6 @@ Fel kan finnas på tre ställen: i kopplingen, i komponenten eller i koden. Test
 5. Vad är problemet med `delay()`?
 6. Varför är det smart att testa koden utan givare först?
 
-## Övningar
-
-**Grund.** Genomför labb 1 till 3 enligt [labbarna](../Mikrodator/). Ändra Blink så att lysdioden blinkar i ett eget mönster, och förklara vad varje rad gör.
-
-**Grund.** Hur stort är det största talet för en 8-bitars omvandlare? Och en 12-bitars?
-
-<details><summary>Svar</summary>
-
-2⁸ − 1 = 255 och 2¹² − 1 = 4095.
-
-</details>
-
-**Vidare.** Med `analogWriteRange(1023)` ger värdet 450 hur stor andel av full effekt? Hur stor andel ger värdet 127 med standardområdet 255?
-
-<details><summary>Svar</summary>
-
-450 / 1023 ≈ 44 % och 127 / 255 ≈ 50 %.
-
-</details>
-
-**Utmaning.** Gör ett program med tillståndsdiagram där knappen stegar mellan tre visningslägen på displayen. Knappar studsar, det vill säga att en tryckning kan ge flera snabba signaler. Lägg till kod som hanterar det.
-
 ## Koppling till projektet
 
 Det här är innehållet i [Mikrokontroller och elektronik](../projekt/mikrokontroller-och-elektronik/README.md). Givaren och koden behöver du i [I hetaste laget](../projekt/hetaste-laget/README.md), och motorn och servot i [Driverbot](../projekt/produktutveckling-driverbot/README.md).

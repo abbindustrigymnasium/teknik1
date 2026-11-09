@@ -106,28 +106,6 @@ Vissa detaljer är svåra att förstå med streckade linjer. Då kan man rita et
 5. När är baslinjemått bättre än kedjemått?
 6. Vilket mått skriver du på ritningen om du ritar i skala 1:2 och detaljen är 80 mm lång?
 
-## Övningar
-
-**Grund.** Rita detaljerna i [Träning, vyer och måttsättning](../Ritteknik%20och%20Inventor/Tr%C3%A4ning%2C%20vyer%20och%20m%C3%A5tts%C3%A4ttning.docx) i tre vyer på rutat papper med linjal. Börja med F längst upp till vänster.
-
-**Grund.** En detalj är 150 mm lång. Hur lång blir den på ritningen i skala 1:5? Och i skala 2:1?
-
-<details><summary>Svar</summary>
-
-150 / 5 = 30 mm i skala 1:5 och 150 · 2 = 300 mm i skala 2:1.
-
-</details>
-
-**Vidare.** Fem hål måttsätts med kedjemått där varje mått har toleransen ±0,05 mm. Hur stort kan felet bli som mest mellan första och femte hålet? Tänk på hur många mått som ligger mellan hålen.
-
-<details><summary>Svar</summary>
-
-Mellan fem hål finns fyra mått, så felet kan bli 4 · 0,05 = 0,2 mm.
-
-</details>
-
-**Utmaning.** Mät ett föremål hemma med linjal eller skjutmått och gör en fullständig ritning i tre vyer. Byt ritning med en kompis och låt kompisen beskriva föremålet utan att ha sett det. Vad var otydligt?
-
 ## Koppling till projektet
 
 Det här är första delen av [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md). Skissen och de måttsatta vyerna är också grunden för din hållare, som är kursens första examinerande uppgift.
@@ -135,7 +113,7 @@ Det här är första delen av [Ritteknik, CAD och 3D-print](../projekt/ritteknik
 ## Läs mer
 
 - [Rittekniks presentation](../Ritteknik%20och%20Inventor/Ritteknik%20presentation.pptx) med vyer och måttsättning.
-- [Materialmappen för ritteknik och Inventor](../Ritteknik%20och%20Inventor/) med övningsblad och Klosshäftet.
+- [Materialmappen för ritteknik](../Ritteknik%20och%20Inventor/) med övningsblad och Klosshäftet.
 - [SIS, Svenska institutet för standarder](https://www.sis.se).
 
-[← Föregående](01-teknikutvecklingsprocessen.md) | [Innehåll](../README.md) | [Nästa →](03-cad-och-inventor.md)
+[← Föregående](01-teknikutvecklingsprocessen.md) | [Innehåll](../README.md) | [Nästa →](03-cad-i-onshape.md)

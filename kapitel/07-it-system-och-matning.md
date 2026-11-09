@@ -89,7 +89,7 @@ Lägg upp filmen ungefär så här:
 - Hemsidan
 - Systembeskrivning
 - Din programmering
-- Hållaren i Inventor
+- Hållaren i Onshape
 - Hållaren färdigutskriven med komponenter
 - Summering
 
@@ -114,28 +114,6 @@ Lägg upp filmen ungefär så här:
 4. Vad bör en systembeskrivning innehålla?
 5. Hur kan en systembeskrivning hjälpa dig själv om ett halvår?
 6. Hur ändrar du en förklaring beroende på målgrupp?
-
-## Övningar
-
-**Grund.** Rita ett blockschema över din termometer med alla delar och pilar. Skriv vad som går i varje pil.
-
-**Grund.** En givare läses var 30:e sekund. Hur många mätningar blir det på ett dygn?
-
-<details><summary>Svar</summary>
-
-2 mätningar per minut · 60 · 24 = 2 880 mätningar.
-
-</details>
-
-**Vidare.** Varje mätning sparas i 24 byte, och mätningen görs var femte minut. Hur stor blir datamängden per år?
-
-<details><summary>Svar</summary>
-
-12 · 24 = 288 mätningar per dygn. 288 · 365 = 105 120 per år. 105 120 · 24 = 2 522 880 byte, ungefär 2,5 MB.
-
-</details>
-
-**Utmaning.** Mät temperaturen i samma rum under ett dygn och jämför med ett väderobservationsvärde utomhus. Diskutera varför det ser ut som det gör och vilka felkällor som finns.
 
 ## Koppling till projektet
 

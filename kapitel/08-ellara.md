@@ -131,44 +131,6 @@ Fråga dig alltid: är svaret rimligt? En mobilladdare drar inte hundratals ampe
 5. Vad är skillnaden mellan effekt och energi?
 6. Hur kopplar du en voltmeter och en amperemeter?
 
-## Övningar
-
-Fler uppgifter med facit finns i Ellärakompendiet i mappen [Ellära](../Ell%C3%A4ra/).
-
-**Grund 1.** Hur stor är strömmen om 5 V ligger över 220 Ω?
-
-**Grund 2.** Vilken effekt har en apparat på 230 V som drar 16 A?
-
-**Grund 3.** Vad blir ersättningsresistansen för 47 Ω, 68 Ω och 100 Ω i serie?
-
-<details><summary>Svar</summary>
-
-1: 5 / 220 ≈ 22,7 mA. 2: 230 · 16 = 3 680 W = 3,68 kW. 3: 215 Ω.
-
-</details>
-
-**Vidare 4.** Tre resistorer på 1 kΩ parallellkopplas. Vad blir ersättningsresistansen?
-
-**Vidare 5.** 330 Ω och 470 Ω seriekopplas till 9 V. Beräkna strömmen och delspänningarna.
-
-**Vidare 6.** En glödlampa är märkt 60 W och 230 V. Vad är dess resistans när den lyser?
-
-<details><summary>Svar</summary>
-
-4: 333,3 Ω. 5: I = 9 / 800 = 11,25 mA, U över 330 Ω ≈ 3,71 V, U över 470 Ω ≈ 5,29 V. 6: R = 230² / 60 ≈ 881,7 Ω.
-
-</details>
-
-**Utmaning 7.** Hur stor är resistansen i en 500 m lång kopparledare med arean 2,5 mm²?
-
-**Utmaning 8.** En spänningsdelare består av 22 kΩ och 10 kΩ i serie och matas med 3,3 V. Hur stor är spänningen över 10 kΩ? Varför kan en sådan koppling vara användbar för ESP8266:s analoga ingång?
-
-<details><summary>Svar</summary>
-
-7: 0,0175 · 500 / 2,5 = 3,5 Ω. 8: U = 3,3 · 10 / 32 ≈ 1,03 V. En spänningsdelare kan anpassa en högre spänning till ingångens område på omkring 1 V.
-
-</details>
-
 ## Koppling till projektet
 
 Det här är innehållet i projektet [Ellära](../projekt/ellara/README.md), som avslutas med ett prov. Du använder det sedan i [Driverbot](../projekt/produktutveckling-driverbot/README.md) när du räknar på motorer och batterier.

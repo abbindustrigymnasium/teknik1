@@ -141,34 +141,6 @@ Testa delsystem för sig innan du sätter ihop dem, och ta bort ett hjul eller l
 5. Varför ska du skriva testprotokollet innan du testar?
 6. Varför måste du kontrollera pinnarna innan du kopplar ihop servo och motor?
 
-## Övningar
-
-**Grund.** En bil har hjul med diametern 65 mm och de snurrar 200 varv per minut. Beräkna hastigheten i m/s.
-
-<details><summary>Svar</summary>
-
-v = π · 0,065 · 200 / 60 ≈ 0,68 m/s.
-
-</details>
-
-**Vidare.** Ett batteri rymmer 1 500 mAh och bilen drar 400 mA i snitt. Hur länge kan den köra i teorin? Varför blir det kortare i verkligheten?
-
-<details><summary>Svar</summary>
-
-1 500 / 400 = 3,75 timmar. I verkligheten varierar strömmen och batteriet kan inte ge ut hela sin kapacitet.
-
-</details>
-
-**Vidare.** Hjulbasen är 100 mm och styrvinkeln 30°. Hur stor blir svängradien?
-
-<details><summary>Svar</summary>
-
-R = 100 / tan(30°) ≈ 173 mm.
-
-</details>
-
-**Utmaning.** Ta fram ett testprotokoll för din bil med minst fem krav, varav ett gäller hållbarhet. Genomför testerna och föreslå förbättringar utifrån resultatet.
-
 ## Koppling till projektet
 
 Allt i kapitlet används i [Produktutveckling: Driverbot](../projekt/produktutveckling-driverbot/README.md). Kapitel 3 och 4 ger dig CAD och utskrift, kapitel 6 motorstyrningen, kapitel 7 nätverk och säkerhet och kapitel 8 beräkningarna.

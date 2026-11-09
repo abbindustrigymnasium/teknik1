@@ -103,26 +103,6 @@ Som **tekniker** påverkar du mycket av detta genom dina val. Går produkten att
 5. Vad betyder att en produkt har stor påverkan under användningen?
 6. Ge ett exempel på en lösning som är bra ekonomiskt men dålig socialt.
 
-## Övningar
-
-**Grund.** En detalj har volymen 12 cm³. Vad väger den i aluminium och i ABS?
-
-<details><summary>Svar</summary>
-
-Aluminium: 12 · 2,7 = 32,4 g. ABS: 12 · 1,05 = 12,6 g.
-
-</details>
-
-**Vidare.** Ett tumgrepp är 10 mm brett, 3 mm tjockt och sticker ut 15 mm. Vilken spänning blir det av en kraft på 20 N i änden?
-
-<details><summary>Svar</summary>
-
-M = 300 Nmm. W = 10 · 3² / 6 = 15 mm³. σ = 300 / 15 = 20 MPa.
-
-</details>
-
-**Utmaning.** Gör en förenklad livscykelanalys av din hållare. Beskriv råvara, tillverkning, användning och slut. Var är påverkan störst, tror du, och vad kan du ändra i konstruktionen för att minska den?
-
 ## Koppling till projektet
 
 I [Ritteknik, CAD och 3D-print](../projekt/ritteknik-cad-3d-print/README.md) väljer du vägg, fyllnad och orientering, och du kan använda beräkningarna här för att motivera dina val. I [Driverbot](../projekt/produktutveckling-driverbot/README.md) utvärderar du din bil, och då är hållbarhet ett av perspektiven.

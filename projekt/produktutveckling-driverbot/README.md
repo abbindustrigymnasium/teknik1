@@ -2,7 +2,7 @@
 
 ## Syfte
 
-Kursens slutprojekt är Driverbot: du konstruerar, 3D-skriver ut, bygger och programmerar en egen robotbil med ESP8266. Här använder du allt du lärt dig i kursen, CAD i Inventor, 3D-utskrift, elektronik och programmering. Du följer teknikutvecklingsprocessen från idé och modell till prototyp, test och färdig produkt.
+Kursens slutprojekt är Driverbot: du konstruerar, 3D-skriver ut, bygger och programmerar en egen robotbil med ESP8266. Här använder du allt du lärt dig i kursen, CAD i Onshape, 3D-utskrift, elektronik och programmering. Du följer teknikutvecklingsprocessen från idé och modell till prototyp, test och färdig produkt.
 
 ## Koppling till kursen
 
@@ -15,7 +15,7 @@ Kursens slutprojekt är Driverbot: du konstruerar, 3D-skriver ut, bygger och pro
 
 **Centralt innehåll:** teknikutvecklingsprocessen, arbete i projektform, problemlösning med programmering, modellering och prototyper, testning och utvärdering, kommunikation och dokumentation.
 
-**Kapitel som förbereder:** [3 CAD och Inventor](../../kapitel/03-cad-och-inventor.md), [4 3D-utskrift](../../kapitel/04-3d-utskrift.md), [5 Material och hållbarhet](../../kapitel/05-material-och-hallbarhet.md), [6 Mikrodatorn och programmering](../../kapitel/06-mikrodatorn.md), [7 IT-system, mätning och kommunikation](../../kapitel/07-it-system-och-matning.md), [8 Ellära](../../kapitel/08-ellara.md), [9 Konstruktion av en robotbil](../../kapitel/09-konstruktion-och-robotbil.md), [10 Teknik, samhälle och normer](../../kapitel/10-teknik-samhalle-normer.md).
+**Kapitel som förbereder:** [3 CAD och Onshape](../../kapitel/03-cad-i-onshape.md), [4 3D-utskrift](../../kapitel/04-3d-utskrift.md), [5 Material och hållbarhet](../../kapitel/05-material-och-hallbarhet.md), [6 Mikrodatorn och programmering](../../kapitel/06-mikrodatorn.md), [7 IT-system, mätning och kommunikation](../../kapitel/07-it-system-och-matning.md), [8 Ellära](../../kapitel/08-ellara.md), [9 Konstruktion av en robotbil](../../kapitel/09-konstruktion-och-robotbil.md), [10 Teknik, samhälle och normer](../../kapitel/10-teknik-samhalle-normer.md).
 
 ## Vad du ska göra
 
@@ -48,7 +48,7 @@ Projektet är 22 lektioner, här sammanslagna i faser.
 | Lektion | Innehåll |
 |---------|----------|
 | 1 | Projektstart: genomgång av projektet, nivåerna och arbetsordningen. Gör en egen planering. |
-| 2–3 | Konstruera axelkopplingen mellan TT-motor och Lego-axel i Inventor med de färdiga STEP-filerna. Skriv ut den och börja modellera nummerplåten. |
+| 2–3 | Konstruera axelkopplingen mellan TT-motor och Lego-axel i Onshape med de färdiga STEP-filerna, som du importerar till ditt dokument. Skriv ut den och börja modellera nummerplåten. |
 | 4–5 | Nummerplåten klar. Se filmen om motorhållaren, konstruera och skriv ut motorhållaren och testa passformen mot motor och axel. |
 | 6–8 | Bygg bilens grund: motorer, axlar och balkar till ett chassi. Koppla motorn till ESP8266 via H-bryggan och testa motorstyrning (labb 7). Programmera bilen att köra fram och back av sig själv och logga det (E-nivå). Avstämning. |
 | 9–11 | Konstruera en servohållare för SG90-servot, skriv ut och testa servot med kod (labb 6). Montera styrningen och koppla ihop drivning och styrning. |
@@ -67,7 +67,7 @@ Du bedöms på hur du driver processen, löser tekniska problem, använder tekni
 - [Mappen Driverbot](../../Driverbot/), med projektbeskrivningen och CAD-filer
 - [Arbetsordning](../../Driverbot/Arbetsordning.docx)
 - [Film om motorhållaren](../../Driverbot/1.%20Motorh%C3%A5llare%20instruktion.mp4)
-- CAD-filer: [TT-motor](../../Driverbot/TT%20motor.STEP), [servo SG90](../../Driverbot/Micro%20servo%209g-SG90.stp), [Lego-axel](../../Driverbot/Lego%20axle.STEP), [11M Beam](../../Driverbot/11M%20Beam.ipt), [nummerplåt](../../Driverbot/Nummerpl%C3%A5t.stp)
+- CAD-filer: [TT-motor](../../Driverbot/TT%20motor.STEP), [servo SG90](../../Driverbot/Micro%20servo%209g-SG90.stp), [Lego-axel](../../Driverbot/Lego%20axle.STEP), [11M Beam](../../Driverbot/11M%20Beam.ipt), [nummerplåt](../../Driverbot/Nummerpl%C3%A5t.stp). Alla filer, även `.ipt`-filen, importerar du till ditt Onshape-dokument enligt [kapitel 3](../../kapitel/03-cad-i-onshape.md).
 - [Labb 6 Servo](../../Mikrodator/6%20Servo.docx) och [Labb 7 Motorstyrning](../../Mikrodator/7%20Motorstyrning.docx)
 - [Kodexempel](../../Mikrodator/Koder/)
 - [Uppgiften Hållare](../../H%C3%A5llare/H%C3%A5llare%20esp%20mm.docx), som du utgår från när du gör ESP-hållaren
